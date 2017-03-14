@@ -1,12 +1,4 @@
-# [直播回放] 元学习课第一课（3月1日）
-
-![01 Xdite](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/01%20Xdite.png)
-
-- 主讲人：Xdite老师
-
-
-
-
+课程说明：
 
 - 课程：
 
@@ -18,11 +10,17 @@
   1.建立学习技能的正确认知
   2.学习「怎样学习」再学习
   3.如何应用拼图学习法
-  
-  
-  ---------
+
+-------------
+
+# [直播回放] 元学习课第一课（3月1日）
+
+![01 Xdite](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/01%20Xdite.png)
+
+## 课程介绍
   
  全栈营创始人：Xdite
+ 
  - 这是一门什么课？
   - 这是一门【学习怎么学习】的课
  
