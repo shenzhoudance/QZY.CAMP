@@ -98,7 +98,8 @@
 - 如果遇到B状况就执行B方法
 - 然后反复的去做
   
-### 3.为什么你学不会编程
+### 3.为什么你学不会编程 —— 跟错了老师或学错了教程
+
 ![12 biancheng](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/12%20biancheng.png)
 
 跟错了老师或学错了教程
