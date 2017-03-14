@@ -1,5 +1,7 @@
 # [直播回放] 元学习课第一课（3月1日）
-![01 Xdite](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/01%20Xdite.png)
+
+![01 Xdite](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/01%20Xdite.png)
+
 - 主讲人：Xdite老师
 
 
