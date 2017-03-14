@@ -293,21 +293,24 @@ Xdite老师说：这种方法完全不对，打错特错。用这种方法学不
 
 ![36](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/36.png)
 
-![37](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/37.png)
-
-![38](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/38.png)
-
 作业：玩游戏和画自画像
+
+![37](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/37.png)
 
 
 学不会英语和编程的另一个原因：人人都有拖延症
-
 
 知道拖延症不好，但为什么还会拖延呢？
 
 心理学：拖延症患者害怕自己失败以及追求完美，非常讨厌做不到的感觉，因为这样的感觉会伤害自己
 
 
+![38](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/38.png)
+
+
+
 面对拖延症的方法：骗自己
 
-  
+  ![40](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/40.png)
+
+
