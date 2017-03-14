@@ -287,10 +287,15 @@ Xdite老师说：这种方法完全不对，打错特错。用这种方法学不
 
 学习编程不要试图去理解，因为人类的大脑是无法用未知解释未知的。学习编程最有效的方法就是冲进度。只要你知道输入什么得到什么就可以了。你可以用看着一本小书模仿复制代码的方式快速搭建出一个小项目。层层快速建立一个大致的全局感，熟悉编程的流程与节奏，最后再把成果发布出来。在盆友的称赞声中建立成就感。抢在自己要放弃之前建立起学习的正循环了。
 
-
-
+--------
 
 下一周：大脑运作原理
+
+![36](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/36.png)
+
+![37](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/37.png)
+
+![38](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/38.png)
 
 作业：玩游戏和画自画像
 
