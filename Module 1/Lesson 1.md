@@ -57,18 +57,19 @@
  - 答疑时长：30分钟
  - 每一堂课都有一个不是很难的作业，但一定要做
  
+
+ ## 三、课程要求
  
 ![05 zuoyeshuoming](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/05%20zuoyeshuoming%20.png)
  
-  
- #### 为什么这个作业一定要做？
-  
-  - 虽然课不是难，但所有技能的学习都一定要践行才可以。
-  - 如果听完课不践行，也只是白白浪费生命而言。（不践行=浪费生命）
+![06 jianxing](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/06%20jianxing.png)
+ 
+ - 每一堂课都有一个不是很难的作业，但一定要做
+ - 虽然课不是难，但所有技能的学习都一定要践行才可以。
+ - 如果听完课不践行，也只是白白浪费生命而言。（不践行=浪费生命）
   
   
-![06 jianxing](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/06%20jianxing.png)
-  
+
   
 
  
