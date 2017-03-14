@@ -223,9 +223,11 @@ Xdite老师说：这种方法完全不对，打错特错。用这种方法学不
 
 - 用游戏化让自己迷上学习
 
+![26](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/26.png)
 
 ## 手游是这样让你迷上它的（手游三部曲）
 
+![27](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/27.png)
 
 1. 执行&获得：教你按这个就能得到那个，甚至得到奖励
 2. 熟悉&掌握：借着你熟悉&掌握大部分的游戏原理后，开始让你攻城略地
@@ -233,16 +235,18 @@ Xdite老师说：这种方法完全不对，打错特错。用这种方法学不
 
 ## 学习编程就应该这样
 
+![28](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/28.png)
+
 按这个得到那个：快速把东西拼出来
 按这样的原理，拼出更大的东西
 然后你的小作品公开给别人看，享受被称赞的快感
-
-## 新手学习模式
-
 本课核心观点：新手就应该用这样的形式，建立自己学习的系统，让自己一开始掉到成就与称赞的天堂
 
+![29](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/29.png)
 
 ## 疑惑
+
+![29](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/29.png)
 
 这样真的能学的会吗？真的不用好好打下【基础】吗
 
