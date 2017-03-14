@@ -75,54 +75,53 @@
 -------------
   
   
- 
-  ## 正课
+## 正课
+  
+![11 zhengke](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/11%20zhengke.png)
   
   
-  ![11 zhengke](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/11%20zhengke.png)
+#### 1.课程目的
   
-  
-  #### 1.课程目的
-  
-  以编程作为示范，帮助大家建立学习起步的方法
+以编程作为示范，帮助大家建立学习起步的方法
   
 
-  #### 2.学习编程的思路
+#### 2.学习编程的思路
   
-  > 其实编程很简单，只你在学编程的过程中被烂老师和烂教程吓到了
+> 其实编程很简单，只你在学编程的过程中被烂老师和烂教程吓到了
   
-  ![00 biancheng](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/00%20biancheng.png)  
+![00 biancheng](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/00%20biancheng.png)  
   
-  - 先观察这件事的输入是什么
-  - 再观察这件事的输出是什么
-  - 然后再想法办让这件事情重复的被做
-  - 如果遇到A状况就执行A方法
-  - 如果遇到B状况就执行B方法
-  - 然后反复的去做
+- 先观察这件事的输入是什么
+- 再观察这件事的输出是什么
+- 然后再想法办让这件事情重复的被做
+- 如果遇到A状况就执行A方法
+- 如果遇到B状况就执行B方法
+- 然后反复的去做
   
    
-  ![12 biancheng](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/12%20biancheng.png)
+![12 biancheng](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/12%20biancheng.png)
   
   
 
-  #### 3. 你是怎么学做菜的？
+#### 3. 你是怎么学做菜的？
   
-  ![14 cuowuanli](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/14%20cuowuanli.png)
+![14 cuowuanli](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/14%20cuowuanli.png)
+ 
+> 如果一个新手，学煎牛排，你认为这样的方式能学的会吗——白痴都知道肯定不会
   
-  > 如果一个新手，学煎牛排，你认为这样的方式能学的会吗——白痴都知道肯定不会
-  
-  - 找菜谱——牛内指南
-  - 看示范——热力学原理
-  - 跟着做——学煎肉
-  - 遇到问题找方案（上网等）
-
-
+- 找菜谱——牛内指南
+- 看示范——热力学原理
+- 跟着做——学煎肉
+- 遇到问题找方案（上网等）
 
 可大家依然会用这样那个的方法学技能，仿佛自己只要肯努力，上天就会眷顾你。如果自己学不会，还会安慰自己是自己不够努力。
 
+
 **Xdite老师说：这种方法完全不对，打错特错。用这种方法学不好任何技能，如果你用这种方法学好了那才是反常呢。**
 
+
 你不应该期待用错误方法来得到正确的结果。如果人类学走路是从学力学原理开始，那大家到三岁还在地上爬
+
 
 ![15 cuowuanli 1](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/15%20cuowuanli%201.png)
 
