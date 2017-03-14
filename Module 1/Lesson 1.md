@@ -242,7 +242,6 @@ Xdite老师说：这种方法完全不对，打错特错。用这种方法学不
 然后你的小作品公开给别人看，享受被称赞的快感
 本课核心观点：新手就应该用这样的形式，建立自己学习的系统，让自己一开始掉到成就与称赞的天堂
 
-![29](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/29.png)
 
 ## 疑惑
 
@@ -252,10 +251,16 @@ Xdite老师说：这种方法完全不对，打错特错。用这种方法学不
 
 人类学习的两种模式
 
+![30](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/30.png)
+
 1. 左脑模式进行逻辑分析学习
 2. 右脑学习模式进行感知学习
 
 ## 五天学会画画
+
+![31](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/31.png)
+
+![32]https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/32.png
 
 推荐书：《像艺术家一样思考》贝蒂.爱德华
 
