@@ -74,17 +74,21 @@
  
   ---
   
+  
+  
  
   ## 正课
+  
   
   ![11 zhengke](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/11%20zhengke.png)
+  
   
-  #### 1. 课程目的
+  #### 1.课程目的
   
   以编程作为示范，帮助大家建立学习起步的方法
   
 
-  #### 2. 学习编程的思路
+  #### 2.学习编程的思路
   
   > 其实编程很简单，只你在学编程的过程中被烂老师和烂教程吓到了
   
