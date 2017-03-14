@@ -102,8 +102,6 @@
 
 ![12 biancheng](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/12%20biancheng.png)
 
-跟错了老师或学错了教程
-
 
 ### 4. 你是怎么学做菜的？
   
