@@ -127,7 +127,7 @@
   
   ## 【举例】你是怎么学做菜的？
   
-  ！[14 cuowuanli](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/14%20cuowuanli.png)
+  ![14 cuowuanli](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/14%20cuowuanli.png)
   
   - 找菜谱——牛内指南
   - 看示范——热力学原理
@@ -139,7 +139,7 @@
 ### 可大家依然会用这样那个的方法学技能
 
 
-！[15 cuowuanli 1](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/15%20cuowuanli%201.png)
+![15 cuowuanli 1](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/15%20cuowuanli%201.png)
 
 
 
