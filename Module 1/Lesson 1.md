@@ -91,7 +91,7 @@
   ![09 zuoyejiangli](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/09%20zuoyejiangli.png)
   
   
-  ！[10 wanyouxi](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/10%20wanyouxi.png)
+  ![10 wanyouxi](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/10%20wanyouxi.png)
   
   
   -------
@@ -100,10 +100,37 @@
  
   ## 课程目的
   
-  建立学习的方法
+  ![11 zhengke](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/11%20zhengke.png)
+  
+  以编程作为示范，帮助大家建立学习起步的方法
   
   
-  找菜谱——牛内指南
+  
+  
+  ## 学习编程的思路
+ 
+  
+  ![00 biancheng](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/00%20biancheng.png)  
+  
+  - 先观察这件事的输入是什么
+  - 再观察这件事的输出是什么
+  - 然后再想法办让这件事情重复的被做
+  - 如果遇到A状况就执行A方法
+  - 如果遇到B状况就执行B方法
+  - 然后反复的去做
+  
+  ![12 biancheng](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/12%20biancheng.png)
+  
+  
+  其实编程很简单，只你在学编程的过程中被烂老师和烂教程吓到了
+  
+  
+  
+  
+  
+  
+  找菜谱——牛内指南
+  
 看示范——热力学原理
 跟着做——学煎肉
 遇到问题找方案（上网等）
