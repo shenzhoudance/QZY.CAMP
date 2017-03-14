@@ -21,83 +21,58 @@
  ![01 Xdite](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/01%20Xdite.png)
 
 
-##### 课程背景
+#### 课程背景
  
 - 全栈营创始人：Xdite
 - 全栈营是一个专精培训全栈开发的培训梯队。在这里零基础也能学会编程，只需要三个月的时间。
 - 全栈营在2016年只是线下培训，到2017年转成了线上版的培训。
 - 全栈营采取特殊的培训思路，这个思路是当年做线下培训时总结提炼出来的，也就是各位所参加的这个元学习课
  
-##### 元学习课是什么？ 
+#### 元学习课是什么？ 
 
 ![02 yuanxuexi](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/02%20yuanxuexi.png)
 
 这是一门【学习怎么学习】的课
  
-##### 为什么要开这门课呢？
+#### 为什么要开这门课呢？
 - 因为很多人这些年在学校中接受了很长的义务教育，但是依然没有组织出一套很好的学习方法。
 - 更可怕的是他们很有可能在义务教育中学到了错误的学习方法。
 - 导致最后他们在出社会后进行自学时学习的很缓慢。
 - 网络上教技能和编程的课很多，但是都没有一个教大家不管老师讲的有多烂教材有多烂的情况下，自己都有办法突破障碍，通过自学上手一门技能的方法。
   
-##### 为什么应该有这样的课程
+#### 为什么应该有这样的课程
   
  ![03 bibeijineng](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/03%20bibeijineng.png)
  
  **有一些技能是未来必备的。比如：英文 & 编程**
  
-##### 为什么很多人学不会这两个技能？
+#### 为什么很多人学不会这两个技能？
  - 因为太多人用错了方法，导致这两个技能永远学不会。
  - **各位不是对某个技能没有天赋，而是学习方法错误或者没有能力辨认出在市场上真正牛逼的老师而已。**
-
-
  
- ------
- 
- 
- ## 课程安排
+ ## 二、课程安排及要求
  
  ![04 kechenganpai](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/04%20kechenganpai.png)
  
- 上课频率：每周三晚上
- 课程时长：30~45 分钟
- 答疑时长：30分钟
- 
+ - 上课频率：每周三晚上
+ - 课程时长：30~45 分钟
+ - 答疑时长：30分钟
+ - 每一堂课都有一个不是很难的作业，但一定要做
  
  ![05 zuoyeshuoming](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/05%20zuoyeshuoming%20.png)
  
-  每一堂课都有一个不是很难的作业，但一定要做
   
-  为什么这个作业一定要做？
+ #### 为什么这个作业一定要做？
   
-  虽然课不是难，但所有技能的学习都一定要践行才可以。
-  
+  - 虽然课不是难，但所有技能的学习都一定要践行才可以。
+  - 如果听完课不践行，也只是白白浪费生命而言。（不践行=浪费生命）
+  
   ![06 jianxing](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/06%20jianxing.png)
   
-  
-  如果听完课不践行，也只是白白浪费生命而言。（不践行=浪费生命）
-  
-  挑战两个技能：编程和画画
-  
-  ![07 zuoye1](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/07%20zuoye1.png)
-  
- 
-## 本周作业：
+  
 
-![08 zuoye2](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/08%20zuoye2.png)
-  
-  - Ipad 玩一个游戏：Swift Playground （learnt to code 1）
-  > 打到前三大关，截图证明你玩完了。前50名中抽出5个人送RockBook。
-  
-  ![09 zuoyejiangli](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/09%20zuoyejiangli.png)
-  
-  
-  ![10 wanyouxi](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/10%20wanyouxi.png)
-  
-  
-  -------
-  
-  
+ 
+  ----------
  
   ## 课程目的
   
@@ -314,3 +289,23 @@ Xdite老师说：这种方法完全不对，打错特错。用这种方法学不
 
   ![40](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/40.png)
 
+
+## 三、本周任务安排
+  
+  ![07 zuoye1](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/07%20zuoye1.png)
+  
+ 
+## 本周作业：
+
+![08 zuoye2](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/08%20zuoye2.png)
+  
+  - Ipad 玩一个游戏：Swift Playground （learnt to code 1）
+  > 打到前三大关，截图证明你玩完了。前50名中抽出5个人送RockBook。
+  
+  ![09 zuoyejiangli](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/09%20zuoyejiangli.png)
+  
+  
+  ![10 wanyouxi](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/10%20wanyouxi.png)
+  
+  
+  -------
