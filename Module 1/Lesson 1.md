@@ -30,7 +30,7 @@
  
  - 元学习课是什么？
  
- ！[02 yuanxuexi](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/02%20yuanxuexi.png)
+![02 yuanxuexi](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/02%20yuanxuexi.png)
  
 
  
@@ -41,7 +41,7 @@
   
   - 为什么要有这样的课程
   
-  ！[03 bibeijineng](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/03%20bibeijineng.png)
+ ![03 bibeijineng](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/03%20bibeijineng.png)
  
  **有一些技能是未来必备的。比如：英文 & 编程**
  - 为什么很多人学不会这两个技能？
@@ -151,28 +151,69 @@ Xdite老师说：这种方法完全不对，打错特错。用这种方法学不
 
 你不应该期待用错误方法来得到正确的结果
 
+![16 cuowufangfa](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/16%20cuowufangfa%20.png)
+
 如果人类学走路是从学力学原理开始，那大家到三岁还在地上爬
 
+#### 程序员是这样学编程的
 
-那些野生程序员或者那些编程天才少年，他们是从学英语开始编程的吗？他们是学完英语才开始学C语言的吗？他们是学完C语言才开始学做网站的吗？
+![17 heilishi](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/17%20heilishi.png)
+
+那些野生程序员或者那些编程天才少年，他们是从学英语开始编程的吗？
+他们是学完英语才开始学C语言的吗？
+他们是学完C语言才开始学做网站的吗？
+
+答案统统不是。
+
+他们通常都会下来网络上的套件，跟着修修改改，学习很多修正的知识，一步一步走到现在。
+答案统统不是。他们通常都会下来网络上的套件，跟着修修改改，学习很多修正的知识，一步一步走到现在。
+事实上野生程序员一开始的一两年都是走这样野路子起步的
 
 答案统统不是。他们通常都会下来网络上的套件，跟着修修改改，学习很多修正的知识，一步一步走到现在。
-事实上野生程序员走这样野路子起步的
 然而等他们成为大牛了，觉得这样的历史实在太丢人了，才会不谈这段黑历史，甚至在脑中屏蔽
 
+![18 yeluzi](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/18%20yeluzi.png)
 
 正是这样的黑历史太丢人了，因此当他们在写教程时才会变成正确的理想型步骤。
 
-他们的教程会变成先是花大把时间把原理解释清楚，最后才会补上很小段的实践。如果你用这样的方式学，很可能会学不会。
-他们其实不是有恶意，反而是好意。他们的初衷是当初要是有人这样扎实的教我这里面的基础知识，我就不会学的这么辛苦了。然而用这种方式编排教程却很难让新手听得懂，真正学会编程。
+他们的教程会变成先是花大把时间把原理解释清楚，最后才会补上很小段的实践。
+如果你用这样的方式学，很可能会学不会。
+他们其实不是有恶意，反而是好意。
+他们的初衷是当初要是有人这样扎实的教我这里面的基础知识，我就不会学的这么辛苦了。
+然而用这种方式编排教程却很难让新手听得懂，真正学会编程。
 
-但是学不会也正常，因为当时他们就不是这样学编程的。这根本就是一条走不通的死胡同，要是他们用这种方法学，早就被无聊核苦逼烦死了。
+其实学不会也正常，因为当时他们就不是这样学编程的。
+这根本就是一条走不通的死胡同，要是他们用这种方法学，早就被无聊核苦逼烦死了。
+
+![19 fangqi](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/19%20fangqi.png)
+
 
 想想你那些学不会的经历，是不是都是因无聊和苦逼而放弃的。
 
+## 新手应该如何学习编程
 
+要学习编程，就要先学会如何学习
+
+![20 yuanxuexi](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/20%20yuanxuexi.png)
+
+#### 全站学员是这样说本套课程的
+
+![21](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/21.png)
 
 ## 学习编程三部曲：
+
+![22](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/22.png)
+
+
+![23](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/23.png)
+
+
+![24](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/24.png)
+
+
+![25](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/25.png)
+
+
 - 拼图理论：
 学习是拼图而不是登山，并不需要从基础理论开始学起，也并不需要先把规则全都有掌握了才开始实践。学习是拼图，你可以这拼一块，那拼一块，假以时日你会拥有全部。而拼图时你需要先拼出这幅图的边框，这样你就会知道图的边界在哪里，然后再去填满它。
 - 成绩感：
