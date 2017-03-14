@@ -21,19 +21,19 @@
  ![01 Xdite](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/01%20Xdite.png)
 
 
-#### 1. 课程背景
+### 1. 课程背景
  
 - 全栈营创始人：Xdite
 - 全栈营是一个专精培训全栈开发的培训梯队。在这里零基础也能学会编程，只需要三个月的时间。
 - 全栈营在2016年只是线下培训，到2017年转成了线上版的培训。
 - 全栈营采取特殊的培训思路，这个思路是当年做线下培训时总结提炼出来的，也就是各位所参加的这个元学习课
  
-#### 2. 元学习课是什么？ 
+### 2. 元学习课是什么？ 
 
 ![02 yuanxuexi](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/02%20yuanxuexi.png)
 
  
-#### 3. 为什么要开这门课呢？
+### 3. 为什么要开这门课呢？
 - 因为很多人这些年在学校中接受了很长的义务教育，但是依然没有组织出一套很好的学习方法。
 - 更可怕的是他们很有可能在义务教育中学到了错误的学习方法。
 - 导致最后他们在出社会后进行自学时学习的很缓慢。
@@ -43,7 +43,7 @@
 ![03 bibeijineng](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/03%20bibeijineng.png)
  
  
-#### 4. 为什么很多人学不会这两个技能？
+### 4. 为什么很多人学不会这两个技能？
  - 因为太多人用错了方法，导致这两个技能永远学不会。
  - **各位不是对某个技能没有天赋，而是学习方法错误或者没有能力辨认出在市场上真正牛逼的老师而已。**
  
@@ -80,12 +80,12 @@
 ![11 zhengke](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/11%20zhengke.png)
   
   
-#### 1.课程目的
+### 1.课程目的
   
 以编程作为示范，帮助大家建立学习起步的方法
   
 
-#### 2.学习编程的思路
+### 2.学习编程的思路
   
 > 其实编程很简单，只你在学编程的过程中被烂老师和烂教程吓到了
   
@@ -98,29 +98,20 @@
 - 如果遇到B状况就执行B方法
 - 然后反复的去做
   
-   
+### 3.为什么你学不会编程
 ![12 biancheng](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/12%20biancheng.png)
-  
-  
 
-#### 3. 你是怎么学做菜的？
+跟错了老师或学错了教程
+
+
+### 4. 你是怎么学做菜的？
   
 ![14 cuowuanli](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/14%20cuowuanli.png)
  
-> 如果一个新手，学煎牛排，你认为这样的方式能学的会吗——白痴都知道肯定不会
-  
-- 找菜谱——牛内指南
-- 看示范——热力学原理
-- 跟着做——学煎肉
-- 遇到问题找方案（上网等）
-
-可大家依然会用这样那个的方法学技能，仿佛自己只要肯努力，上天就会眷顾你。如果自己学不会，还会安慰自己是自己不够努力。
-
-
-**Xdite老师说：这种方法完全不对，打错特错。用这种方法学不好任何技能，如果你用这种方法学好了那才是反常呢。**
-
-
-你不应该期待用错误方法来得到正确的结果。如果人类学走路是从学力学原理开始，那大家到三岁还在地上爬
+- 如果一个新手学煎牛排，你认为这样的方式能学的会吗——白痴都知道肯定不会
+- 可大家依然会用这样那个的方法学技能，仿佛自己只要肯努力，上天就会眷顾你。如果自己学不会，还会安慰自己是自己不够努力。
+- **Xdite老师说：这种方法完全不对，打错特错。用这种方法学不好任何技能，如果你用这种方法学好了那才是反常呢。**
+- 你不应该期待用错误方法来得到正确的结果。如果人类学走路是从学力学原理开始，那大家到三岁还在地上爬
 
 
 ![15 cuowuanli 1](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/15%20cuowuanli%201.png)
@@ -130,7 +121,7 @@
 
 
 
-#### 4. 程序员是这样学编程的
+### 4. 程序员是这样学编程的
 
 ![17 heilishi](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/17%20heilishi.png)
 
@@ -142,7 +133,7 @@
 - **事实上野生程序员一开始的一两年都是走这样野路子起步的**
 - 然而等他们成为大牛了，觉得这样的历史实在太丢人了，才会不谈这段黑历史，甚至在脑中屏蔽
 
-#### 5. 为什么市面上的教程与程序员们学习的方式不同？
+### 5. 为什么市面上的教程与程序员们学习的方式不同？
 
 ![18 yeluzi](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/18%20yeluzi.png)
 
@@ -161,7 +152,7 @@
 
 
 
-#### 6. 新手应该如何学习编程
+### 6. 新手应该如何学习编程
 
 - 要学习编程，就要先学会如何学习
 
@@ -171,7 +162,7 @@
 
 ![21](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/21.png)
 
-#### 7. 学习编程三部曲：
+### 7. 学习编程三部曲：
 
 ![22](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/22.png)
 
@@ -198,7 +189,7 @@
 
 ![26](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/26.png)
 
-#### 8. 手游是这样让你迷上它的（手游三部曲）
+### 8. 手游是这样让你迷上它的（手游三部曲）
 
 ![27](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/27.png)
 
@@ -206,7 +197,7 @@
 2. 熟悉&掌握：借着你熟悉&掌握大部分的游戏原理后，开始让你攻城略地
 3. 奖励&沉浸：正在你觉得无聊时，开始随机出现奖励，害你无法自拔
 
-#### 9. 学习编程就应该这样
+### 9. 学习编程就应该这样
 
 ![28](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/28.png)
 
@@ -216,7 +207,7 @@
 - **新手就应该用这样的形式，建立自己学习的系统，让自己一开始掉到成就与称赞的天堂**
 
 
-#### 10. 人类学习的两种模式
+### 10. 人类学习的两种模式
 
 
 
@@ -228,7 +219,7 @@
 1. 左脑模式进行逻辑分析学习
 2. 右脑学习模式进行感知学习
 
-#### 11. 五天学会画画
+### 11. 五天学会画画
 
 ![31](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/31.png)
 
@@ -270,7 +261,7 @@
   - Ipad 玩一个游戏：Swift Playground （learnt to code 1）
   > 打到前三大关，截图证明你玩完了。前50名中抽出5个人送RockBook。
 
-#### 1. 学不会英语和编程的另一个原因：人人都有拖延症
+### 1. 学不会英语和编程的另一个原因：人人都有拖延症
 
 - 知道拖延症不好，但为什么还会拖延呢？
 
@@ -281,7 +272,7 @@
 
 
 
-#### 2. 面对拖延症的方法：骗自己
+### 2. 面对拖延症的方法：骗自己
 
   ![40](https://raw.githubusercontent.com/Agnes-CC/QZY.CAMP/master/Module%201/Lesson%201/40.png)
 
